@@ -1,10 +1,10 @@
-# Pre Work - *Simple ToDo*
+# Pre Work - *Simple Todo3*
 
-**Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Todo3** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Tiarre Jackson**
 
-Time spent: **6** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,7 @@ The following **additional** features are implemented:
 
 
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
