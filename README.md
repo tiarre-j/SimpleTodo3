@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+## Video Walkthrough
 
+<ing src "https://github.com/tiarre-j/SimpleTodo3/blob/master/walkthrough.mp4 " walkthrough
 
 
 
